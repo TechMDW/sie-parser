@@ -1,0 +1,6 @@
+*.si
+*.se
+.env
+temp.ts
+node_modules
+package-lock.json
